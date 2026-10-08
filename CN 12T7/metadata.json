@@ -1,0 +1,8 @@
+{
+  "name": "QLCN V5",
+  "description": "Hệ thống LMS môn Sinh Học THPT thông minh với tính năng thi online, thách đấu và hỗ trợ AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
